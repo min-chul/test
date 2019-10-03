@@ -1,1 +1,2 @@
 owner write 1
+frnd write 2
