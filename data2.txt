@@ -1,2 +1,2 @@
 friend create new file
-owner write 2nd line
+owner write 2nd line,friend write 2nd line:wq
