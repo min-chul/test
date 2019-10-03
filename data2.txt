@@ -1,1 +1,2 @@
 friend create new file
+owner write 2nd line
