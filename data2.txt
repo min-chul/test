@@ -1,3 +1,4 @@
 friend create new file
 owner write 2nd line,friend write 2nd line:wq
 t1-m-1
+t2-m-1
